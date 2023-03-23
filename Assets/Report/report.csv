@@ -1,0 +1,45 @@
+current section,qubit state generated,qubit state targeted,question generated time stamp,question component index,user answer,user answered time stamp,general time stamp
+Section 1 Assesment 1,equator,equator,4/5/2021 12:01:58 AM,0,equator,4/5/2021 12:02:17 AM,4/5/2021 12:02:17 AM
+Section 1 Assesment 1,likely_down,likely_down,4/5/2021 12:02:18 AM,0,likely_down,4/5/2021 12:02:23 AM,4/5/2021 12:02:23 AM
+Section 1 Assesment 1,likely_down,likely_down,4/5/2021 12:02:24 AM,0,down,4/5/2021 12:02:26 AM,4/5/2021 12:02:26 AM
+Section 1 Assesment 1,down,down,4/5/2021 12:02:27 AM,0,down,4/5/2021 12:02:28 AM,4/5/2021 12:02:28 AM
+Section 1 Assesment 1,likely_down,likely_down,4/5/2021 12:02:29 AM,0,likely_down,4/5/2021 12:02:31 AM,4/5/2021 12:02:31 AM
+Section 1 Assesment 1,equator,equator,4/8/2021 10:57:06 PM,0,equator,4/8/2021 10:57:09 PM,4/8/2021 10:57:09 PM
+Section 1 Assesment 1,equator,equator,4/8/2021 10:57:10 PM,0,down,4/8/2021 10:57:14 PM,4/8/2021 10:57:14 PM
+Section 1 Assesment 1,equator,equator,4/8/2021 10:57:15 PM,0,likely_down,4/8/2021 10:57:17 PM,4/8/2021 10:57:17 PM
+Section 1 Assesment 1,equator,equator,4/8/2021 10:57:18 PM,0,equator,4/8/2021 10:57:20 PM,4/8/2021 10:57:20 PM
+Section 1 Assesment 1,likely_up,likely_up,4/8/2021 10:57:22 PM,0,likely_up,4/8/2021 10:57:27 PM,4/8/2021 10:57:27 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0 + 0i][ 1 + 0i],4/9/2021 2:19:37 AM,0,empty,,4/9/2021 2:19:37 AM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0.70711 + 0i][ 0.70711 + 0i],4/9/2021 5:41:39 AM,0,empty,,4/9/2021 5:41:39 AM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0.70711 + 0i][ 0.70711 + 0i],4/9/2021 4:02:04 PM,0,empty,,4/9/2021 4:02:04 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0.70711 + 0i][ 0.70711 + 0i],4/9/2021 4:02:04 PM,1,H,4/9/2021 4:02:30 PM,4/9/2021 4:02:30 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0 + 0i][ 1 + 0i],4/9/2021 4:03:12 PM,0,empty,,4/9/2021 4:03:12 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0.70711 + 0i][ 0.70711 + 0i],4/9/2021 4:03:39 PM,0,empty,,4/9/2021 4:03:39 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0 + 0i][ 1 + 0i],4/9/2021 4:05:58 PM,0,empty,,4/9/2021 4:05:58 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0 + 0i][ 1 + 0i],4/9/2021 4:07:40 PM,0,empty,,4/9/2021 4:07:40 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0 + 0i][ 1 + 0i],4/9/2021 4:08:02 PM,0,empty,,4/9/2021 4:08:02 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0 + 0.70711i],[ 0.70711 + 0i][ 0 + -0.70711i],4/21/2021 4:45:00 PM,0,empty,,4/21/2021 4:45:00 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0.70711 + 0i],[ 0.70711 + 0i][ 0 + 0.70711i],4/21/2021 4:45:07 PM,0,empty,4/21/2021 4:45:05 PM,4/21/2021 4:45:07 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0.70711 + 0i],[ 1 + 0i][ 0 + 0i],4/21/2021 4:45:14 PM,0,empty,4/21/2021 4:45:13 PM,4/21/2021 4:45:14 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0 + 0i][ 1 + 0i],4/21/2021 4:45:21 PM,0,empty,4/21/2021 4:45:18 PM,4/21/2021 4:45:21 PM
+Section 2 Assesment 1,[ 0 + 0i][ 1 + 0i],[ 0.70711 + 0i][ 0.70711 + 0i],4/21/2021 4:45:25 PM,0,empty,4/21/2021 4:45:24 PM,4/21/2021 4:45:25 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0.5 + 0.5i],[ 0.70711 + 0i][ 0 + -0.70711i],4/21/2021 4:45:38 PM,0,empty,4/21/2021 4:45:37 PM,4/21/2021 4:45:38 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ -0.70711 + 0i],[ 1 + 0i][ 0 + 0i],4/21/2021 4:45:48 PM,0,empty,4/21/2021 4:45:47 PM,4/21/2021 4:45:48 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0 + 0.70711i],[ 0.70711 + 0i][ 0.70711 + 0i],4/21/2021 4:45:57 PM,0,empty,4/21/2021 4:45:56 PM,4/21/2021 4:45:57 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0.70711 + 0i][ 0.5 + -0.5i],4/21/2021 4:46:17 PM,0,empty,4/21/2021 4:46:15 PM,4/21/2021 4:46:17 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0 + 0.70711i],[ 1 + 0i][ 0 + 0i],4/21/2021 4:46:51 PM,0,empty,4/21/2021 4:46:45 PM,4/21/2021 4:46:51 PM
+Section 1 Assessment 1,equator,equator,4/26/2021 8:05:17 AM,0,equator,4/26/2021 8:05:18 AM,4/26/2021 8:05:18 AM
+Section 1 Assessment 1,likely_up,likely_up,4/26/2021 8:05:19 AM,0,likely_down,4/26/2021 8:05:21 AM,4/26/2021 8:05:21 AM
+Section 1 Assessment 1,likely_down,likely_down,4/26/2021 8:05:22 AM,0,likely_down,4/26/2021 8:05:23 AM,4/26/2021 8:05:23 AM
+Section 1 Assessment 1,up,up,4/26/2021 8:05:24 AM,0,up,4/26/2021 8:05:25 AM,4/26/2021 8:05:25 AM
+Section 1 Assessment 1,likely_up,likely_up,4/26/2021 8:05:26 AM,0,likely_up,4/26/2021 8:05:28 AM,4/26/2021 8:05:28 AM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0 + 0.70711i],[ 0.70711 + 0i][ 0 + -0.70711i],4/26/2021 8:08:12 AM,0,empty,,4/26/2021 8:08:12 AM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0.70711 + 0i],[ 0.70711 + 0i][ 0 + 0.70711i],4/26/2021 8:08:18 AM,0,empty,4/26/2021 8:08:16 AM,4/26/2021 8:08:18 AM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0 + -0.70711i],[ 0.70711 + 0i][ 0.5 + -0.5i],4/26/2021 8:08:23 AM,0,empty,4/26/2021 8:08:22 AM,4/26/2021 8:08:23 AM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0.70711 + 0i],[ 1 + 0i][ 0 + 0i],4/26/2021 8:08:35 AM,0,empty,4/26/2021 8:08:34 AM,4/26/2021 8:08:35 AM
+Section 2 Assesment 1,[ 0 + 0i][ 1 + 0i],[ 0.70711 + 0i][ 0.70711 + 0i],4/26/2021 8:08:41 AM,0,empty,4/26/2021 8:08:40 AM,4/26/2021 8:08:41 AM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0.5 + 0.5i],[ 0.70711 + 0i][ 0 + -0.70711i],4/26/2021 8:08:52 AM,0,empty,4/26/2021 8:08:50 AM,4/26/2021 8:08:52 AM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0 + 0.70711i],[ 0.70711 + 0i][ 0.70711 + 0i],4/26/2021 8:09:01 AM,0,empty,4/26/2021 8:09:00 AM,4/26/2021 8:09:01 AM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0.70711 + 0i][ 0 + 0.70711i],4/26/2021 8:09:09 AM,0,empty,4/26/2021 8:09:08 AM,4/26/2021 8:09:09 AM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0 + 0.70711i],[ 1 + 0i][ 0 + 0i],4/26/2021 8:09:15 AM,0,empty,4/26/2021 8:09:14 AM,4/26/2021 8:09:15 AM
+Section 2 Assesment 1,[ 0 + 0i][ 1 + 0i],[ 0.70711 + 0i][ -0.5 + 0.5i],4/26/2021 8:09:38 AM,0,empty,4/26/2021 8:09:36 AM,4/26/2021 8:09:38 AM

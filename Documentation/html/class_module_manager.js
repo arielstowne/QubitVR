@@ -1,0 +1,25 @@
+var class_module_manager =
+[
+    [ "clearGate", "class_module_manager.html#ab91741e010f249e32d16298c51fd202e", null ],
+    [ "flashlightStatus", "class_module_manager.html#a4763c9b2391a261cd38e4b7da7ce84e1", null ],
+    [ "hStatus", "class_module_manager.html#a1f95244d622de1c1472030e73e65c307", null ],
+    [ "incrementStep", "class_module_manager.html#ad6577291e69af2a08a79418b60c8274f", null ],
+    [ "init", "class_module_manager.html#a65a6b541c81e40619c573630d6a67fe8", null ],
+    [ "notStatus", "class_module_manager.html#a87174ac725d189dc1eafe00805f3a206", null ],
+    [ "performMeasurement", "class_module_manager.html#a8d645bd391b4c50d51cf0f9f2ff27f7a", null ],
+    [ "setGate", "class_module_manager.html#a178a7387aa5201b43375f644598047fb", null ],
+    [ "setStateFalse", "class_module_manager.html#a702d556c3fbe0795a51f3b3fdebad7ae", null ],
+    [ "setStateTrue", "class_module_manager.html#a127da23e5b78fb0a846ae5db9912cd77", null ],
+    [ "setStep", "class_module_manager.html#a237b9231a4c20986fe7a83e6d17e13f0", null ],
+    [ "sStatus", "class_module_manager.html#a2b4cfc58877483bad3a3e755fef429a7", null ],
+    [ "tStatus", "class_module_manager.html#a949f15209760c37b2dd57fcc4067ad0e", null ],
+    [ "unknownStatus", "class_module_manager.html#aab9d4167bf69a100f155aed926382df4", null ],
+    [ "audioSource", "class_module_manager.html#a49cfe579b98800bcb6ddf255bccc184c", null ],
+    [ "currentGate", "class_module_manager.html#ae5acc1b74a73312fdc8a17ca09f3a773", null ],
+    [ "history", "class_module_manager.html#a441e693a182634c969b5670a6f25bed0", null ],
+    [ "isHoldingFlashlight", "class_module_manager.html#a2578a0c6cc8081454ad74d81f0c4c84d", null ],
+    [ "measure", "class_module_manager.html#acfc2b6bd0b99c57a0cb420ca164b2600", null ],
+    [ "QubitManager", "class_module_manager.html#a4c40d264115ffddb5384227b332c4815", null ],
+    [ "state", "class_module_manager.html#acdcef4084162451ddd417005862d9e86", null ],
+    [ "step", "class_module_manager.html#a9e29dbef90a47d4cf42b774ca4beb875", null ]
+];

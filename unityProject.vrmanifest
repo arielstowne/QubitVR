@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.qubitvr_calcifer_qubit_2606.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\ariel\\Desktop\\QubitVR\\New folder\\QubitVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "qubitVR_calcifer_qubit_2606 [Testing]"
+        }
+      }
+    }
+  ]
+}

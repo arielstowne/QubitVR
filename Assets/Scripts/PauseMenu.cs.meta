@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a8ec99da254e69b5bfb4002a7057bfd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pauseTutorialUI: {fileID: 3604329617001838560, guid: 107c3f816b3abc851970b71fe1e1e5d0,
+      type: 3}
+  - moduleConcepts: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

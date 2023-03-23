@@ -1,0 +1,12 @@
+current section,qubit state generated,qubit state targeted,question generated time stamp,question component index,user answer,user answered time stamp,general time stamp
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0.70711 + 0i],[ 0.70711 + 0i][ 0 + 0.70711i],3/16/2023 9:03:00 PM,0,empty,,3/16/2023 9:03:00 PM
+Section 1 Assessment 1,likely_down,likely_down,3/18/2023 5:39:49 PM,0,likely_down,3/18/2023 5:43:09 PM,3/18/2023 5:43:10 PM
+Section 1 Assessment 1,likely_down,likely_down,3/18/2023 5:43:12 PM,0,likely_down,3/18/2023 5:43:16 PM,3/18/2023 5:43:16 PM
+Section 1 Assessment 1,likely_up,likely_up,3/18/2023 5:43:21 PM,0,likely_up,3/18/2023 5:43:35 PM,3/18/2023 5:43:35 PM
+Section 1 Assessment 1,down,down,3/18/2023 5:43:37 PM,0,down,3/18/2023 5:43:40 PM,3/18/2023 5:43:40 PM
+Section 1 Assessment 1,likely_down,likely_down,3/18/2023 5:43:42 PM,0,equator,3/18/2023 5:46:33 PM,3/18/2023 5:46:33 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0.70711 + 0i][ 0.70711 + 0i],3/18/2023 6:22:23 PM,0,empty,,3/18/2023 6:22:23 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0.70711 + 0i],[ 0.70711 + 0i][ 0 + 0.70711i],3/18/2023 6:22:52 PM,0,empty,3/18/2023 6:22:47 PM,3/18/2023 6:22:52 PM
+Section 2 Assesment 1,[ 1 + 0i][ 0 + 0i],[ 0 + 0i][ 1 + 0i],3/18/2023 6:23:04 PM,0,empty,3/18/2023 6:23:00 PM,3/18/2023 6:23:04 PM
+Section 2 Assesment 1,[ 0.70711 + 0i][ 0 + -0.70711i],[ 0.70711 + 0i][ 0.5 + -0.5i],3/18/2023 6:23:13 PM,0,empty,3/18/2023 6:23:10 PM,3/18/2023 6:23:13 PM
+Section 2 Assesment 1,[ 0 + 0i][ 1 + 0i],[ 0.70711 + 0i][ 0.70711 + 0i],3/18/2023 6:23:25 PM,0,empty,3/18/2023 6:23:21 PM,3/18/2023 6:23:25 PM
